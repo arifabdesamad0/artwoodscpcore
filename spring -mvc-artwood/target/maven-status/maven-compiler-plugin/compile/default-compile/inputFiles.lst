@@ -1,0 +1,9 @@
+/Users/samadarf/Desktop/spring-mvc-thymeleaf-master/src/main/java/com/joseph/config/SpringWebConfig.java
+/Users/samadarf/Desktop/spring-mvc-thymeleaf-master/src/main/java/com/joseph/MyServletInitializer.java
+/Users/samadarf/Desktop/spring-mvc-thymeleaf-master/src/main/java/com/joseph/config/PersistenceJPAConfig.java
+/Users/samadarf/Desktop/spring-mvc-thymeleaf-master/src/main/java/com/joseph/entity/Customer.java
+/Users/samadarf/Desktop/spring-mvc-thymeleaf-master/src/main/java/com/joseph/web/HelloController.java
+/Users/samadarf/Desktop/spring-mvc-thymeleaf-master/src/main/java/com/joseph/web/CustomerController.java
+/Users/samadarf/Desktop/spring-mvc-thymeleaf-master/src/main/java/com/joseph/service/CustomerService.java
+/Users/samadarf/Desktop/spring-mvc-thymeleaf-master/src/main/java/com/joseph/repository/CustomerRepository.java
+/Users/samadarf/Desktop/spring-mvc-thymeleaf-master/src/main/java/com/joseph/service/Impl/CustomerServiceImpl.java
